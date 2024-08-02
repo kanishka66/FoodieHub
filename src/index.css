@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: cornflowerblue;
+  color: white;
+}
+.card{
+  background-color: rgb(86, 86, 234);
+  color:white;
+  
+}
